@@ -1,2 +1,2 @@
 ### @THeReALVoRTeCKZ - VoRTeCKZ Studios - Coding
-![image](https://github.com/acidvegas/acidvegas/raw/main/.screens/crowdkill.gif)
+![image](https://i.imgur.com/m1aCFl4.png)
