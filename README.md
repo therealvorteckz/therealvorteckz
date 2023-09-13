@@ -1,2 +1,2 @@
 ### @THeReALVoRTeCKZ - VoRTeCKZ Studios - Coding
-[Model](https://github.com/acidvegas/acidvegas/raw/main/.screens/crowdkill.gif)
+![Settings Window](https://raw.github.com/ryanmaxwell/iArrived/master/Screenshots/Settings.png)
